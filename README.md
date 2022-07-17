@@ -19,9 +19,6 @@
 </div>
 
 ----
-<div align="center">
-	<h2>Queen Amdi v3 whatsapp bot (Old bot without buttons) :</h1>
-	
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
 
